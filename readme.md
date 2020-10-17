@@ -8,7 +8,7 @@ This little sketch may solve this problem since it is small in size.
 
 Usage:
 
-1. Manually compile or use the provided binary (folder bin) and upload via OTA
+1. Manually compile or use the provided binary (folder `build_output/firmware`) and upload via OTA
 
 2. Use a WiFi-enabled device to connect to the board's WiFi Access Point "UpdateMe". The password is "recovery".
 

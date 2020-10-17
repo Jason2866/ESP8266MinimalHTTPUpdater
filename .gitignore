@@ -1,4 +1,5 @@
 .pioenvs
 .cache
+.platformio
 .vscode
 firmware.map

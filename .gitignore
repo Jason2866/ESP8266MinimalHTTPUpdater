@@ -1,3 +1,4 @@
 .pioenvs
 .cache
 .vscode
+firmware.map
